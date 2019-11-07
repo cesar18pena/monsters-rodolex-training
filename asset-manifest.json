@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/monsters-rolodex/static/css/main.3743f01a.chunk.css",
-    "main.js": "/monsters-rolodex/static/js/main.8a9fd4e2.chunk.js",
-    "main.js.map": "/monsters-rolodex/static/js/main.8a9fd4e2.chunk.js.map",
-    "runtime-main.js": "/monsters-rolodex/static/js/runtime-main.86190389.js",
-    "runtime-main.js.map": "/monsters-rolodex/static/js/runtime-main.86190389.js.map",
-    "static/js/2.975c5e1d.chunk.js": "/monsters-rolodex/static/js/2.975c5e1d.chunk.js",
-    "static/js/2.975c5e1d.chunk.js.map": "/monsters-rolodex/static/js/2.975c5e1d.chunk.js.map",
-    "index.html": "/monsters-rolodex/index.html",
-    "precache-manifest.0184e5529553b25c7e5398411b299b74.js": "/monsters-rolodex/precache-manifest.0184e5529553b25c7e5398411b299b74.js",
-    "service-worker.js": "/monsters-rolodex/service-worker.js",
-    "static/css/main.3743f01a.chunk.css.map": "/monsters-rolodex/static/css/main.3743f01a.chunk.css.map"
+    "main.css": "/monsters-rolodex-training/static/css/main.3743f01a.chunk.css",
+    "main.js": "/monsters-rolodex-training/static/js/main.cb944cd7.chunk.js",
+    "main.js.map": "/monsters-rolodex-training/static/js/main.cb944cd7.chunk.js.map",
+    "runtime-main.js": "/monsters-rolodex-training/static/js/runtime-main.66ef7eb1.js",
+    "runtime-main.js.map": "/monsters-rolodex-training/static/js/runtime-main.66ef7eb1.js.map",
+    "static/js/2.975c5e1d.chunk.js": "/monsters-rolodex-training/static/js/2.975c5e1d.chunk.js",
+    "static/js/2.975c5e1d.chunk.js.map": "/monsters-rolodex-training/static/js/2.975c5e1d.chunk.js.map",
+    "index.html": "/monsters-rolodex-training/index.html",
+    "precache-manifest.94d528457414a918c4d48b96a8e99993.js": "/monsters-rolodex-training/precache-manifest.94d528457414a918c4d48b96a8e99993.js",
+    "service-worker.js": "/monsters-rolodex-training/service-worker.js",
+    "static/css/main.3743f01a.chunk.css.map": "/monsters-rolodex-training/static/css/main.3743f01a.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.86190389.js",
+    "static/js/runtime-main.66ef7eb1.js",
     "static/js/2.975c5e1d.chunk.js",
     "static/css/main.3743f01a.chunk.css",
-    "static/js/main.8a9fd4e2.chunk.js"
+    "static/js/main.cb944cd7.chunk.js"
   ]
 }
