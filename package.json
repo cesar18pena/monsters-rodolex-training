@@ -1,8 +1,8 @@
 {
-  "name": "monsters-rolodex",
+  "name": "monsters-rodolex-training",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cesar18pena.github.io/monsters-rolodex-training",
+  "homepage": "https://cesar18pena.github.io/monsters-rodolex-training",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
