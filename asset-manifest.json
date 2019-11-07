@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/monsters-rolodex-training/static/css/main.3743f01a.chunk.css",
-    "main.js": "/monsters-rolodex-training/static/js/main.cb944cd7.chunk.js",
-    "main.js.map": "/monsters-rolodex-training/static/js/main.cb944cd7.chunk.js.map",
-    "runtime-main.js": "/monsters-rolodex-training/static/js/runtime-main.66ef7eb1.js",
-    "runtime-main.js.map": "/monsters-rolodex-training/static/js/runtime-main.66ef7eb1.js.map",
-    "static/js/2.975c5e1d.chunk.js": "/monsters-rolodex-training/static/js/2.975c5e1d.chunk.js",
-    "static/js/2.975c5e1d.chunk.js.map": "/monsters-rolodex-training/static/js/2.975c5e1d.chunk.js.map",
-    "index.html": "/monsters-rolodex-training/index.html",
-    "precache-manifest.94d528457414a918c4d48b96a8e99993.js": "/monsters-rolodex-training/precache-manifest.94d528457414a918c4d48b96a8e99993.js",
-    "service-worker.js": "/monsters-rolodex-training/service-worker.js",
-    "static/css/main.3743f01a.chunk.css.map": "/monsters-rolodex-training/static/css/main.3743f01a.chunk.css.map"
+    "main.css": "/monsters-rodolex-training/static/css/main.3743f01a.chunk.css",
+    "main.js": "/monsters-rodolex-training/static/js/main.52d1e86c.chunk.js",
+    "main.js.map": "/monsters-rodolex-training/static/js/main.52d1e86c.chunk.js.map",
+    "runtime-main.js": "/monsters-rodolex-training/static/js/runtime-main.33d171d9.js",
+    "runtime-main.js.map": "/monsters-rodolex-training/static/js/runtime-main.33d171d9.js.map",
+    "static/js/2.5cece94c.chunk.js": "/monsters-rodolex-training/static/js/2.5cece94c.chunk.js",
+    "static/js/2.5cece94c.chunk.js.map": "/monsters-rodolex-training/static/js/2.5cece94c.chunk.js.map",
+    "index.html": "/monsters-rodolex-training/index.html",
+    "precache-manifest.b771c2798a6a71f1cefcb05ca58755ef.js": "/monsters-rodolex-training/precache-manifest.b771c2798a6a71f1cefcb05ca58755ef.js",
+    "service-worker.js": "/monsters-rodolex-training/service-worker.js",
+    "static/css/main.3743f01a.chunk.css.map": "/monsters-rodolex-training/static/css/main.3743f01a.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.66ef7eb1.js",
-    "static/js/2.975c5e1d.chunk.js",
+    "static/js/runtime-main.33d171d9.js",
+    "static/js/2.5cece94c.chunk.js",
     "static/css/main.3743f01a.chunk.css",
-    "static/js/main.cb944cd7.chunk.js"
+    "static/js/main.52d1e86c.chunk.js"
   ]
 }
